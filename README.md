@@ -2,9 +2,6 @@
 
 M.Tech (AIML/DSE) — Machine Learning, Assignment 2
 
-> ⚠️ **Fill in before submitting:** replace the placeholder in the
-> [Live Streamlit App](#live-streamlit-app) section below once you have
-> deployed the app.
 
 ## a. Problem Statement
 
@@ -98,7 +95,7 @@ classes and say nothing about how well the model catches rare attacks like
 
 ## Live Streamlit App
 
-`<PASTE_YOUR_STREAMLIT_APP_URL_HERE>`
+[https://network-intrusion-detection-ml.streamlit.app](https://network-intrusion-detection-ml.streamlit.app)
 
 ## d. Models Used
 
