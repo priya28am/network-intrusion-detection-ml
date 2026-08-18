@@ -97,6 +97,10 @@ classes and say nothing about how well the model catches rare attacks like
 
 [https://network-intrusion-detection-ml.streamlit.app](https://network-intrusion-detection-ml.streamlit.app)
 
+## BITS Virtual Lab Execution Proof
+
+![BITS Virtual Lab screenshot — model training and Streamlit app running](docs/bits_lab_screenshot.png)
+
 ## d. Models Used
 
 All 5 models are trained on the same preprocessed dataset
